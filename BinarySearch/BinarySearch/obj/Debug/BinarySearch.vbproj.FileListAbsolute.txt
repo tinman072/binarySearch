@@ -1,0 +1,9 @@
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.xml
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.Resources.resources
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.vbproj.GenerateResource.Cache
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.xml
+C:\Users\Erin\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
